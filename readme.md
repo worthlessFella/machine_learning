@@ -1,0 +1,1 @@
+Github repo for Machine Learning (M/L) algorithms in python. This repo is for purpose of understanding the basis of M/L algos. Thus, it does not use any framework, rather the algorithms are coded from scratch in python.
